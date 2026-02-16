@@ -1,5 +1,7 @@
-using TaskManager.Api.Repositories;
-using TaskManager.Api.Services;
+using TaskManager.Application.Interfaces;
+using TaskManager.Application.Services;
+using TaskManager.Domain.Repositories;
+using TaskManager.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

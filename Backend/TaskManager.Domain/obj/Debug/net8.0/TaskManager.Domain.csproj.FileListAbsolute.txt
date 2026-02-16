@@ -1,0 +1,12 @@
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfo.cs
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.sourcelink.json
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.deps.json
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\refint\TaskManager.Domain.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.pdb
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Domain\obj\Debug\net8.0\ref\TaskManager.Domain.dll

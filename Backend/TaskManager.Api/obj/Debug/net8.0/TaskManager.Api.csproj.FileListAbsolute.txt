@@ -62,3 +62,10 @@ C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\obj\Debug\net8.0\
 C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\obj\Debug\net8.0\TaskManager.Api.pdb
 C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\obj\Debug\net8.0\TaskManager.Api.genruntimeconfig.cache
 C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\obj\Debug\net8.0\ref\TaskManager.Api.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\obj\Debug\net8.0\TaskManager.Api.sourcelink.json
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\bin\Debug\net8.0\TaskManager.Application.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\bin\Debug\net8.0\TaskManager.Infrastructure.dll
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\bin\Debug\net8.0\TaskManager.Application.pdb
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\bin\Debug\net8.0\TaskManager.Infrastructure.pdb
+C:\cursor_claude_projects\Task Manager\Backend\TaskManager.Api\bin\Debug\net8.0\TaskManager.Domain.pdb
