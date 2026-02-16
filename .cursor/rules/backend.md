@@ -1,0 +1,4 @@
+- .NET Framework 4.8 only
+- No migration to .NET 8
+- Use layered architecture
+- Services + DTOs
